@@ -35,3 +35,4 @@ Propõe uma solução para o problema dos três interruptores e três lâmpadas,
     d) 100 (Números pares ao quadrado)
     e) 13 (Sequência de Fibonacci)
     f) 20?
+5. Ligue o interruptor A por 5 minutos e desligue-o. Ligue o interruptor B. Vá até a sala das lâmpadas. A lâmpada acesa corresponde ao interruptor B. A lâmpada apagada e quente corresponde ao interruptor A. A lâmpada apagada e fria corresponde ao interruptor C.
