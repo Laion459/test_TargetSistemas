@@ -36,3 +36,24 @@ Propõe uma solução para o problema dos três interruptores e três lâmpadas,
     e) 13 (Sequência de Fibonacci)
     f) 20?
 5. Ligue o interruptor A por 5 minutos e desligue-o. Ligue o interruptor B. Vá até a sala das lâmpadas. A lâmpada acesa corresponde ao interruptor B. A lâmpada apagada e quente corresponde ao interruptor A. A lâmpada apagada e fria corresponde ao interruptor C.
+
+
+## Classes
+
+* **`Fibonacci`**:  Contém métodos para gerar a sequência de Fibonacci, verificar a pertinência de um número à sequência e gerar a sequência até um determinado número.
+* **`StringAnalyzer`**:  Contém métodos para analisar uma string e verificar a ocorrência e a quantidade de vezes que a letra 'a' aparece.
+* **`Main`**: Classe principal que demonstra o uso das classes `Fibonacci` e `StringAnalyzer`.
+
+## Como Executar
+
+Para compilar e executar o código, você precisará de um ambiente Java Development Kit (JDK) instalado.
+
+1. **Clone o repositório:** `git clone https://github.com/Laion459/test_TargetSistemas`
+2. **Navegue até o diretório:** `cd [nome do diretório]`
+3. **Compile o código:** `javac Main.java Fibonacci.java StringAnalyzer.java`
+4. **Execute o código:** `java Main`
+
+
+## Observações
+
+O código foi escrito com comentários explicativos para facilitar a compreensão.  As classes `Fibonacci` e `StringAnalyzer` foram projetadas com encapsulamento e seguindo boas práticas de programação orientada a objetos.

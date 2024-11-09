@@ -6,14 +6,16 @@ RESPOSTAS
 
 3-  O valor da variável SOMA é 77.
 
-4.
-    a) 9 (Sequência de números ímpares consecutivos)
-    b) 128 (Cada número é o dobro do anterior)
-    c) 49 (Sequência dos quadrados perfeitos)
-    d) 100 (Números pares ao quadrado)
-    e) 13 (Sequência de Fibonacci)
-    f) 20?
+4-
+    a) Sequência é de números ímpares consecutivos, próximo número da sequência é 9.
+    b) Cada número é o dobro do anterior (multiplicação por 2), próximo número da sequência é 128.
+    c) Sequência dos quadrados perfeitos, próximo número da sequência é 49.
+    d) Números pares ao quadrado, próximo número da sequência é 100.
+    e) Sequência de Fibonacci, próximo número da sequência é 13.
+    f) Próximo número da sequência é 20?
 
-5.  Ligue o interruptor A por 5 minutos e desligue-o. Ligue o interruptor B. Vá até a sala das lâmpadas.
-    A lâmpada acesa corresponde ao interruptor B. A lâmpada apagada e quente corresponde ao interruptor A.
-    A lâmpada apagada e fria corresponde ao interruptor C.
+5-
+    Precisaria ir apenas 1 vez, a situação seria a seguinte, nomearia os interruptores A, B e C, onde deixaria ligada
+    por 5 minutos o interruptor A, depois o desligaria depois ligaria o interruptor B, depois iria verificar as lampadas,
+    interruptor A a lampada estaria quente, interruptor B a lampada estaria ligada e por fim interruptor C a lampada
+    estaria desligada.
