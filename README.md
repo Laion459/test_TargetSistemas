@@ -27,3 +27,4 @@ Propõe uma solução para o problema dos três interruptores e três lâmpadas,
 ## Respostas
 1. Implementado na classe `Fibonacci` e demonstrado na classe `Main`.
 2. Implementado na classe `StringAnalyzer` e demonstrado na classe `Main`.
+3. O valor da variável SOMA é 77.
