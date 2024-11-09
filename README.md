@@ -25,3 +25,5 @@ Completa o próximo elemento de diversas sequências numéricas, identificando a
 Propõe uma solução para o problema dos três interruptores e três lâmpadas, explicando como identificar qual interruptor controla qual lâmpada com apenas duas idas à sala das lâmpadas. A resposta está detalhada na seção "Respostas" deste README.
 
 ## Respostas
+1. Implementado na classe `Fibonacci` e demonstrado na classe `Main`.
+2. Implementado na classe `StringAnalyzer` e demonstrado na classe `Main`.
