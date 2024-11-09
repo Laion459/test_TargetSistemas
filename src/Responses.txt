@@ -5,3 +5,11 @@ RESPOSTAS
 2. Implementado na classe `StringAnalyzer` e demonstrado na classe `Main`.
 
 3-  O valor da variável SOMA é 77.
+
+4.
+    a) 9 (Sequência de números ímpares consecutivos)
+    b) 128 (Cada número é o dobro do anterior)
+    c) 49 (Sequência dos quadrados perfeitos)
+    d) 100 (Números pares ao quadrado)
+    e) 13 (Sequência de Fibonacci)
+    f) 20?
